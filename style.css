@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300');
+
+* {
+  margin: 40;
+}
+
+body, html {
+	height:100%;
+	width: 100%;
+}
+
+div.main_text {
+  clear:both;
+	position:fixed;
+	bottom:0;
+	height:65%;
+	font-family: 'Work Sans', sans-serif;
+  font-size: 125%;
+  text-align: left;
+  font-weight: 200;
+	padding: 40px;
+	overflow: hidden;
+	margin:40px 80px 10px 80px;
+}
